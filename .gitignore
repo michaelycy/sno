@@ -1,0 +1,5 @@
+postgres/data
+sonarqube/data
+sonarqube/extensions
+sonarqube/logs
+sonarqube/lib
